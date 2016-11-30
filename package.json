@@ -2,6 +2,7 @@
   "name": "av",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://niketarachhadia.github.io/av",
   "devDependencies": {
     "react-scripts": "0.6.1"
   },
