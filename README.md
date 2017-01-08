@@ -4,7 +4,6 @@ Thinkful Full Stack Web Developer Bootcamp React App Project
 
 ![Screenshots](https://raw.githubusercontent.com/niketarachhadia/av/master/public/img/screen1.png)
 ![Screenshots](https://raw.githubusercontent.com/niketarachhadia/av/master/public/img/screen2.png)
-![Screenshots](https://raw.githubusercontent.com/niketarachhadia/av/master/public/img/screen3.png)
 
 ## Overview
 
