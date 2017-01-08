@@ -7,17 +7,17 @@ Thinkful Full Stack Web Developer Bootcamp React App Project
 
 ## Overview
 
-BetFriend is an app which is designed to analyse historical Formula 1 performance data for drivers and constructors, work out their likelihood of success at the next race in the calendar and compare to online bookmakers odds for the same outcome to identify any potential pricing discrepancies.
+Standardly is a web based client to standardize US addresses using Smarty Streets API. The app utilizes React ecosystem libraries and components along with Redux for state management 
 
 ##Use Case
 
-Why is this app useful? There are over 600 million people watching Formula 1 on television around the world during each race and they're all fascinated with who is going to win the next race. A lot of those fans bet on the outcome to add a bit of extra interest to the race. In theory, this app *could* make better predictions of the odds of a driver winning the next race than the bookies, and in so doing could highlight potential profit opportunities in the betting market. In other words, the app provides betting fans an edge when they're placing their bets on the race.
+Why is this app useful? Everytime you send mail for personal or business reasons, if ever in doubt about the address, give StandardLy a shot. It will provide you receipient address in USPS standard along with location on Map for added confidence.
 
 ##UX
 
-The initial mobile wireframes can be seen below:
+The initial wireframes can be seen below:
 
-![Initial Wireframes](http://jonwade.digital/github-images/betfriend-wireframe-image.jpg)
+![Initial Wireframes](https://raw.githubusercontent.com/niketarachhadia/av/master/public/img/mockup.png)
 
 The app has been designed with a focus on strong, impactful Formula 1 photography used as background images and from a mobile-first perspective. The home screen displays the next race in the calendar, with a decreasing countdown to the beginning of that race. By clicking on the ‘Get Prediction’ button, the user is taken through to the Prediction template. That template shows a grid line-up with the predicted positions of the drivers based on an algorithm that analyses historic driver and manufacturer performance data. The sliders at the top of the page allow the user to change the assumptions in the algorithm. The top slider allows the balance between current season performance and historic track performance (over past 10 years) to be altered in the algorithm. The second slider allows the balance between driver performance and constructor performance to be altered. As the sliders are altered, the grid order will dynamically change to represent the new race result prediction. For each driver, the predicted odds of winning the race are then compared to the odds of winning published online by BetFair.
 
